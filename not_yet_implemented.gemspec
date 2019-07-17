@@ -6,8 +6,8 @@ require "not_yet_implemented/version"
 Gem::Specification.new do |spec|
   spec.name          = "not_yet_implemented"
   spec.version       = NotYetImplemented::VERSION
-  spec.authors       = ["Sam Livingston-Gray"]
-  spec.email         = ["geeksam@gmail.com"]
+  spec.authors       = ["Sam Livingston-Gray", "Kerri Miller"]
+  spec.email         = ["geeksam@gmail.com", "kerrizor@kerrizor.com"]
 
   spec.summary       = %q{Adds a 'NotYetImplemented' exception class.  That's really it.  Inspired by https://twitter.com/kerrizor/status/1151532013188337665}
   spec.homepage      = "https://github.com/geeksam/not_yet_implemented"
